@@ -21,7 +21,7 @@ Welcome to **ChatApp**! This real-time chat application, developed as a Distribu
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.11
 - Tkinter (usually comes pre-installed with Python)
 
 ### Installation
